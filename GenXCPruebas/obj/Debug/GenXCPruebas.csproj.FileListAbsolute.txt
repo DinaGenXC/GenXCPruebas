@@ -1,0 +1,140 @@
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\GenXCPruebas.exe.config
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\GenXCPruebas.exe
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\GenXCPruebas.pdb
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\accoremgd.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\acdbmgd.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\acdbmgdbrep.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\AcExportLayoutEx.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\acmgd.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.CopyCarpetasArchivos.resources
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Form1.resources
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.FormPruebaSQlite.resources
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.KMLForm.resources
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Properties.Resources.resources
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.GenerateResource.cache
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.CoreCompileInputs.cache
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.CopyComplete
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.exe
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.pdb
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\Npgsql.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Buffers.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Memory.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Json.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Channels.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.ValueTuple.dll
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\Npgsql.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Buffers.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Memory.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Json.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Channels.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\bin\Debug\System.ValueTuple.xml
+C:\Users\LT-GENXC-033\source\repos\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.FormDbPgAdmin.resources
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\GenXCPruebas.exe.config
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\GenXCPruebas.exe
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\GenXCPruebas.pdb
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\Npgsql.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Buffers.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Memory.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Json.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Channels.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.ValueTuple.dll
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\Npgsql.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Buffers.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Memory.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Json.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Channels.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.ValueTuple.xml
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.CopyCarpetasArchivos.resources
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Form1.resources
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.FormDbPgAdmin.resources
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.FormPruebaSQlite.resources
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.KMLForm.resources
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Properties.Resources.resources
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.GenerateResource.cache
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.CoreCompileInputs.cache
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.CopyComplete
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.exe
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.pdb
+C:\Users\LT-GENXC-033\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.AssemblyReference.cache
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\GenXCPruebas.exe.config
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\GenXCPruebas.exe
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\GenXCPruebas.pdb
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\Npgsql.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Buffers.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Memory.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Json.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Channels.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.ValueTuple.dll
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\Npgsql.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Buffers.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Data.SQLite.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Memory.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Text.Json.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Channels.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\bin\Debug\System.ValueTuple.xml
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.CopyCarpetasArchivos.resources
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Form1.resources
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.FormDbPgAdmin.resources
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.FormPruebaSQlite.resources
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.KMLForm.resources
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Properties.Resources.resources
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.GenerateResource.cache
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.CoreCompileInputs.cache
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.CopyComplete
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.exe
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.pdb
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.Forms.FormPruebaDbPlanning.resources
+C:\Users\genxc\OneDrive - GenXC Group\Documents - IT\GenXC Apps\Dinanyeli\GenXCPruebas\GenXCPruebas\obj\Debug\GenXCPruebas.csproj.AssemblyReference.cache
